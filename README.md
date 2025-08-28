@@ -60,9 +60,9 @@ I'm a developer with a passion for AI/ML and Full-Stack Web Development, and I'v
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjya_06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjya_06&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjya06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjya06&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-contribution-graph.vercel.app/api?username=Arjya_06&theme=tokyonight" alt="contribution-graph">
+  <img src="https://github-readme-contribution-graph.vercel.app/api?username=Arjya06&theme=tokyonight" alt="contribution-graph">
 </p>
