@@ -1,7 +1,7 @@
 # Hey, I'm Arjya! 👋
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Arjya_06" alt="Profile views">
+  <img src="https://gpvc.arturio.dev/Arjya06" alt="Profile views">
 </p>
 
 I'm a developer with a passion for AI/ML and Full-Stack Web Development, and I've also worked on projects in the Cybersecurity space.
