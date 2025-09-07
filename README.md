@@ -1,14 +1,7 @@
 <div align="center">
   
-  <!-- 🔥 Banner / Header Image -->
-  <img src="https://your-banner-link-here.png" alt="Arjya Banner" width="100%" />
-
   # Hey, I'm Arjya! 👋
   
-  <p>
-    <img src="https://gpvc.arturio.dev/Arjya06" alt="Profile views">
-  </p>
-
   <p>
     I'm a developer with a passion for **AI/ML** and **Full-Stack Web Development**,  
     and I've also worked on projects in the **Cybersecurity** space.
@@ -38,7 +31,7 @@
 ### 💻 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,react,nodejs,express,tailwind,pytorch,tensorflow,mongodb,postgres,mysql,git,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,next,tailwind,html,css,nodejs,express,spring,mongodb,postgres,mysql,sqlite,pytorch,tensorflow,sklearn,huggingface,git,github,aws,docker,kubernetes,figma,postman" />
   </a>
 </div>
 
