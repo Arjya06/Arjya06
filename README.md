@@ -1,5 +1,8 @@
 <div align="center">
   
+  <!-- 🔥 Banner / Header Image -->
+  <img src="https://your-banner-link-here.png" alt="Arjya Banner" width="100%" />
+
   # Hey, I'm Arjya! 👋
   
   <p>
@@ -7,7 +10,8 @@
   </p>
 
   <p>
-    I'm a developer with a passion for AI/ML and Full-Stack Web Development, and I've also worked on projects in the Cybersecurity space.
+    I'm a developer with a passion for **AI/ML** and **Full-Stack Web Development**,  
+    and I've also worked on projects in the **Cybersecurity** space.
   </p>
   
 </div>
@@ -15,9 +19,9 @@
 ---
 
 ### 💡 About Me
-- 🔭 **Currently working on:** A challenging FinTech project.
-- 🌱 **Currently learning:** Advanced model training techniques and Large Language Models (LLMs).
-- 🎯 **My goal is:** To become an expert in the field of AI and Machine Learning.
+- 🔭 **Currently working on:** A challenging FinTech project.  
+- 🌱 **Currently learning:** Advanced model training techniques & LLMs.  
+- 🎯 **Goal:** To become an expert in **AI & Machine Learning**.  
 - 📫 **Reach me at:**
 
 <p align="center">
@@ -40,17 +44,34 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjya06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjya06&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjya06&theme=tokyonight" />
-</div>
+### 📊 GitHub Stats & Achievements
 
 <div align="center">
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arjya06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjya06&layout=compact&langs_count=8&theme=tokyonight"/>  
+
+  <br/>
+
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjya06&theme=tokyonight"/>  
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Arjya06&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjya06&theme=tokyonight&hide_border=true&area=true" alt="activity-graph">
+</div>
+
+---
+
+<div align="center">
+  
+✨ *"Turning ideas into code, and code into impact."* ✨  
+
 </div>
